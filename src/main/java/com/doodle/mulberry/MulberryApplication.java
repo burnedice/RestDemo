@@ -1,13 +1,13 @@
-package com.doodle.apple;
+package com.doodle.mulberry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AppleApplication {
+public class MulberryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AppleApplication.class, args);
+		SpringApplication.run(MulberryApplication.class, args);
 	}
 
 }
